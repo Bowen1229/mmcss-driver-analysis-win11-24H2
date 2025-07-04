@@ -87,7 +87,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\Syste
 
 ---
 
-## 🔐 `mmcss.sys` 文件签名校验 & 哈希验证
+## `mmcss.sys` 文件签名校验 & 哈希验证
 
 ### 检查签名
 
