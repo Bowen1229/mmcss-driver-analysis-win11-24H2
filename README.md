@@ -1,5 +1,5 @@
 
-# Windows 11 版本 24H2 中 MMCSS 服务完整说明（by Bowen）
+# Windows 11 版本 24H2 中 MMCSS 服务说明
 
 ## 基本信息
 
